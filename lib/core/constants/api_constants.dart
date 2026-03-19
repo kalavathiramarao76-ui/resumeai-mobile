@@ -1,5 +1,5 @@
 class ApiConstants {
-  static const String baseUrl = 'https://resumeai-api.vercel.app/api/v1';
+  static const String baseUrl = 'https://resumeai-api-kalavathis-projects-4a81c9e3.vercel.app/api/v1';
   static const int connectTimeout = 30000;
   static const int receiveTimeout = 30000;
 
